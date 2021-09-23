@@ -12,4 +12,14 @@ git clone https://github.com/Baracuda1337/Pavlo_Malgin_IK-31.git
 git log
 ``` 
 
+### 4. Я створив нову гілку за допопомогою команди:
+```sh
+git branch new_branch1
+``` 
+### і переключився на цю гілку за допопомогою команди:
+```sh
+git checkout new_branch1
+```
+
 ### 5. Зміни в файлі README.md на гілці master не відображаються томущо попередній коміт виконувався на гілку branch_one.
+
