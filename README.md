@@ -11,3 +11,12 @@ git clone https://github.com/Baracuda1337/Pavlo_Malgin_IK-31.git
 ```sh
 git log
 ``` 
+
+### 4. Я створив нову гілку за допопомогою команди:
+```sh
+git branch new_branch1
+``` 
+### і переключився на цю гілку за допопомогою команди:
+```sh
+git checkout new_branch1
+```
