@@ -34,3 +34,5 @@ git checkout new_branch1
 ```sh
 git pull
 ```
+### 10. Вставлення зображення в README.md файл :
+![alt text](https://github.com/Baracuda1337/Pavlo_Malgin_IK-31/blob/master/lab1/images.jpg "Add foto") 
